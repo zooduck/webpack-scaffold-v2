@@ -1,0 +1,3 @@
+export const config = {
+	// configuration parameters here... 
+};
