@@ -12,7 +12,7 @@ const EXTRACT_STYLESHEETS = new EXTRACT_TEXT_PLUGIN({
 
 const CONFIG = {
     entry: {
-        "json-translations-editor": ["./src/index.js"]
+        "webpack-scaffold-v2": ["./src/index.js"]
     },
     output: {
         path: PATH.resolve(__dirname, "dist"),
